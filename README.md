@@ -13,7 +13,7 @@ You can install the SDK Man from its site https://sdkman.io/install
 After that, you can install GraalVM with this command.
 
 ```bash
-sdk install java 21.3.0.r17-grl
+sdk install java 22.3.r19-grl
 ```
 You can compile the native executable by running the following command.
 ```bash
